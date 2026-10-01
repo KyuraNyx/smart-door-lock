@@ -1,0 +1,19 @@
+# Build and Compiled files
+build/
+*.bin
+*.elf
+*.hex
+*.o
+*.d
+
+# Heavy PDF report file
+*.pdf
+
+# Editor & OS files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
